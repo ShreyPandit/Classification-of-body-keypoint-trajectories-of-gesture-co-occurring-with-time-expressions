@@ -128,3 +128,4 @@ len(X_raw)
 
 Y_raw = extract_pose_annotations("openpose/output_json/")
 len(Y_raw)
+
