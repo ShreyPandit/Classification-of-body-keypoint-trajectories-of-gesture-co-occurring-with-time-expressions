@@ -7,4 +7,4 @@ The way humans interact with each other occurs in multimodality. We not only art
 Weekly Tracker - [Blog](https://shreypandit.medium.com/gsoc-2022-red-hen-lab-f01b40d99f4c) <br>
 Explanation of project - [Blog](https://shreypandit.medium.com/classification-of-body-keypoint-trajectories-of-gesture-co-occurring-with-time-expressions-4bcd9d9d2541) <br>
 Interactable code on Colab for easier replication - [Colab Notebook](https://colab.research.google.com/drive/1iPSIDsazw0e52MIwq_f3bJKx-V4WGp7K?usp=sharing) <br>
-Link to the proposal [Colab Notebook](https://sites.google.com/site/distributedlittleredhen/summer-of-code/red-hen-lab-gsoc-2022-projects) <br>
+Link to the proposal [Red hen Webpage](https://sites.google.com/site/distributedlittleredhen/summer-of-code/red-hen-lab-gsoc-2022-projects) <br>
